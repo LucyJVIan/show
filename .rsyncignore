@@ -1,0 +1,17 @@
+/.git
+/.github
+/node_modules
+/app
+/pages
+/src
+.babelrc
+.env.example
+.eslintrc.json
+.gitignore
+.rsyncignore
+next-env.d.ts
+next.config.mjs
+README.md
+tsconfig.json
+.prettierrc
+.prettierignore

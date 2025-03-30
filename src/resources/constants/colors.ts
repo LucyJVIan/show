@@ -1,0 +1,17 @@
+export const colors = {
+    greenPrimary: '#51B3B0',
+    greenDark: '#278885',
+    greenLight: '#AADED8',
+    grayPrimary: '#D4E0E0',
+    grayLight: '#B2B2B2',
+    white: '#fff',
+    whiteGhost: '#F8F9F9',
+    blackPrimary: '#626366',
+    redPrimary: '#E32323',
+    transparent: 'transparent',
+    greenLightWithOpacity: 'rgba(170, 222, 216, 0.5)',
+    whiteWithOpacity: 'rgba(255, 255, 255, 0.2)',
+    breezeLight: '#C3DDDA',
+    black: '#000000',
+    gray: '#F2F3F3',
+} as const;

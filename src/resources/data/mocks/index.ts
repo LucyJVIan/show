@@ -1,0 +1,11 @@
+export { galleryTreatments } from './treatments';
+export { feedbacks } from './feedbacks';
+export { breadcrumbs } from './breadcrumbs';
+export { gallery } from './gallery';
+export { news } from './news';
+export { publications } from './publications';
+export { scientificReports } from './scientificReports';
+export { tabs } from './tabs';
+export { trainingPrograms } from './trainingPrograms';
+export { problemsSidebar } from './problemsSidebar';
+export { problemsAreas } from './problemsAreas';
